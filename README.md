@@ -11,10 +11,16 @@ This repository contains code and resources for building a clean Bartangi langua
 - Corpus preparation for future low-resource NLP tasks
 
 ## 🚀 Getting Started
-Requirements
+
+### Requirements
+
 Install Python 3.8+ and the required libraries:
+
+```bash
 pip install -r requirements.txt
 
 ## 🔗 Data Source
 We used the publicly available Bartangi corpus by Arseniy Novokshanov for initial data collection.
 
+Note: The raw corpus is not included in this repository.
+Please refer to the original source for accessing it.
