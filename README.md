@@ -10,11 +10,11 @@ This repository contains code and resources for building a clean Bartangi langua
 - Embedding Visualization (PCA and t-SNE)
 - Corpus preparation for future low-resource NLP tasks
 
-##🚀 Getting Started
+## 🚀 Getting Started
 Requirements
 Install Python 3.8+ and the required libraries:
 pip install -r requirements.txt
 
-##🔗 Data Source
+## 🔗 Data Source
 We used the publicly available Bartangi corpus by Arseniy Novokshanov for initial data collection.
 
