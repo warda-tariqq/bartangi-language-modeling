@@ -18,17 +18,3 @@ Install Python 3.8+ and the required libraries:
 
 ```bash
 pip install -r requirements.txt
-Running the Pipeline
-Preprocess the Raw Corpus
-python scripts/preprocess.py
-Lemmatize the Corpus
-python scripts/lemmatize.py
-Train Word Embeddings
-python scripts/train_embeddings.py
-Visualize Embeddings
-PCA and t-SNE plots will be saved in the outputs/ folder.
-
-We used the publicly available Bartangi corpus by Arseniy Novokshanov for initial data collection.
-
-Note: The raw corpus is not included in this repository.
-Please refer to the original source for accessing it.
